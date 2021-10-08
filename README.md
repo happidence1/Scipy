@@ -2,7 +2,7 @@
 
 cd $SCRATCH
 
-git clone 
+git clone https://github.com/happidence1/Scipy.git
 
 cd SciPy
 
