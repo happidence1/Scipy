@@ -4,6 +4,6 @@ cd $SCRATCH
 
 git clone https://github.com/happidence1/Scipy.git
 
-cd SciPy
+cd Scipy
 
 ls
